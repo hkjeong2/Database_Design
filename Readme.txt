@@ -1,1 +1,4 @@
+# Database_Design
+Univ.
+
 JDBC를 활용한 주식 호가 매매 및 쿼리 작성
